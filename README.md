@@ -1,4 +1,4 @@
-<img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3400&pause=1700&color=898989&vCenter=true&height=25&lines=HeyHeyHeyyyyyyyyyy----!!'/>
+<img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=C1C1C1FF&vCenter=true&height=25&lines=HeyHeyHeyyyyyyyyyy----!!'/>
 
 <!--
 **Tsukishima1/Tsukishima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
