@@ -1,5 +1,6 @@
 <img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=C1C1C1FF&vCenter=true&height=25&lines=HeyHeyHeyyyyyyyyyy----!!'/>
-
+---
+![](https://pokemonrevolution.net/forum/uploads/monthly_2022_11/D8574C5E-5B08-4F8B-A828-417F0E885016.gif.66c58de74bce8e03e72df91628438e28.gif)
 <!--
 **Tsukishima1/Tsukishima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
